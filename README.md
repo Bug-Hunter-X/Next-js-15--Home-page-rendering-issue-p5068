@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Next.js 15 applications where the home page fails to render correctly. The bug might manifest as a blank screen or a console error. The solution shows how to fix the issue.
